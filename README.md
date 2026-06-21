@@ -1,4 +1,4 @@
-# Student Information Management System — Tanzania
+# Student Information Management System Tanzania
 
 ## Project Title
 **Student Information Management System for Primary and Secondary Schools in Tanzania**
@@ -7,9 +7,7 @@
 Bachelor of Science in Computer Science
 
 ## Group Number
-**Group [YOUR GROUP NUMBER]**
-
----
+**Group 02**
 
 ## Project Overview
 
@@ -17,7 +15,6 @@ This is a web-based Student Information Management System (SIMS) developed using
 
 The system was developed as part of the **CP 222 – Open Source Technologies** assignment, covering PHP programming, Git version control, and GitHub collaboration.
 
----
 
 ## Key Features
 
@@ -53,8 +50,8 @@ The system was developed as part of the **CP 222 – Open Source Technologies** 
 
 ### Step 1 – Clone the Repository
 ```bash
-git clone https://github.com/[YOUR-USERNAME]/OpenSource_Assignment_CS_Group[NUMBER].git
-cd OpenSource_Assignment_CS_Group[NUMBER]
+git clone https://github.com/simons-cs-dev/OpenSource_Assignment_CS_Group02.git
+cd OpenSource_Assignment_CS_Group02
 ```
 
 ### Step 2 – Set Up the Database
@@ -165,7 +162,7 @@ git branch -a
 
 ## GitHub Repository
 
-🔗 **[https://github.com/[YOUR-USERNAME]/OpenSource_Assignment_CS_Group[NUMBER]](https://github.com)**
+🔗 **[https://github.com/simons-cs-dev/OpenSource_Assignment_CS_Group02](https://github.com)**
 
 ---
 
